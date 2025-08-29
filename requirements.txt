@@ -1,0 +1,7 @@
+streamlit
+numpy
+pillow
+opencv-python
+opencv-contrib-python
+scikit-learn
+google-generativeai
