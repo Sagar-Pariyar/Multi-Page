@@ -16,7 +16,7 @@ def get_image_info(filter_name):
     """
     # --- FIX: Use API Key directly ---
     # Replace "YOUR_API_KEY_HERE" with your actual Gemini API key
-    API_KEY = "AIzaSyA7fvbvVnrHDf1cRiS4a2uBdCKb0wJ8FLo"
+    API_KEY = "OUR_API_KEY_HERE"
 
     if API_KEY == "YOUR_API_KEY_HERE":
         st.warning("Please add your Gemini API key to the code to enable this feature.", icon="⚠️")
